@@ -24,7 +24,7 @@ const Header = () => {
               <span className="text-white font-black">B</span>
             </div>
             <span className="tracking-widest font-extrabold text-xl text-gray-900">
-              BUI<span className="text-amber-600">D</span>EDGE
+              BUIL<span className="text-amber-600">D</span>EDGE
             </span>
             <span className="ml-1 w-1.5 h-1.5 rounded-full bg-amber-500 group-hover:scale-110 transition"></span>
           </a>
